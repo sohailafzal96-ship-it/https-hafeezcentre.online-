@@ -1,0 +1,6 @@
+{
+  "name": "Softimpex Traders | Hafeez Center IT Marketplace",
+  "description": "Wholesale and retail IT hardware marketplace from Hafeez Center Lahore. Laptops, Desktops, Networking, Storage, CCTV and accessories with nationwide Pakistan delivery and COD.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
